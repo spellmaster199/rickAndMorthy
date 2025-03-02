@@ -1,4 +1,4 @@
-# rickAndMorthyApp
+# rickAndMortyApp
 
 ⚠ FIGYELEM: Ez a projekt fejlesztés alatt áll, még nem a végleges verzió!
 
